@@ -83,12 +83,12 @@ links:
       icon: fab fa-google-plus
   - twitter:
       name: Twitter
-      show: true
+      show: false
       href: https://twitter.com/YOUR_TWITTER_USERNAME
       icon: fab fa-twitter
   - weibo:
       name: 微博
-      show: true
+      show: false
       href: https://weibo.com/YOUR_WEIBO_USERNAME
       icon: fab fa-weibo
   - vine:
@@ -98,17 +98,17 @@ links:
       icon: fab fa-vine
   - facebook:
       name: Facebook
-      show: false
+      show: true
       href: https://facebook.com/YOUR_FB_USERNAME
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
-      show: true
+      show: false
       href: https://vk.com/YOUR_VK_USERNAME
       icon: fab fa-vk
   - instagram:
       name: Instagram
-      show: false
+      show: true
       href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
       icon: fab fa-instagram
   - flickr:
@@ -163,17 +163,17 @@ links:
       icon: fab fa-tumblr
   - blog:
       name: Blog
-      show: true
+      show: false
       href: http://host.domain/your_blog
       icon: fas fa-book-open
   - email:
       name: Email
-      show: true
+      show: false
       href: mailto:jonathan.doe@host.domain
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
