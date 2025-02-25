@@ -99,7 +99,7 @@ links:
   - facebook:
       name: Facebook
       show: true
-      href: https://facebook.com/YOUR_FB_USERNAME
+      href: https://https://www.facebook.com/roberto.alcantara.94214/?locale=es_LA/YOUR_FB_USERNAME
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
