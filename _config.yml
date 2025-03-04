@@ -99,7 +99,7 @@ links:
   - facebook:
       name: Facebook
       show: true
-      href: https://https://www.facebook.com/roberto.alcantara.94214/?locale=es_LA/YOUR_FB_USERNAME
+      href: https://www.facebook.com/roberto.alcantara.94214?locale=es_LA
       icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
@@ -109,7 +109,7 @@ links:
   - instagram:
       name: Instagram
       show: true
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+      href: https://www.instagram.com/alcantara3929/
       icon: fab fa-instagram
   - flickr:
       name: Flickr
